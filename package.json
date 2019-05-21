@@ -6,7 +6,11 @@
   "scripts": {
     "develop": "yarn run clean && gatsby develop",
     "build": "yarn run clean && gatsby build",
+<<<<<<< HEAD
     "deploy": "yarn run clean && gatsby build --prefix-paths && gh-pages -d public -b master", 
+=======
+    "deploy": "yarn run clean && gatsby build --prefix-paths && gh-pages -d public -b master",    
+>>>>>>> fba13c2f7e025038f8b5eef10383ed556d5f9080
     "clean": "rimraf .cache public",
     "flow": "flow",
     "flow-typed": "flow-typed install",
