@@ -1,9 +1,9 @@
 'use strict';
 
 module.exports = {
-  url: 'https://lumen.netlify.com',
-  title: 'Blog by varcharho',
-  subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+  url: 'http://varcharho.github.io',
+  title: 'Varcharho 개발블로그',
+  subtitle: 'var charho = ["웹개발자 박찬호", "", ""]',
   copyright: '© All rights reserved.',
   disqusShortname: '',
   postsPerPage: 4,
@@ -14,25 +14,25 @@ module.exports = {
       path: '/'
     },
     {
-      label: 'About me',
-      path: '/pages/about'
+      label: 'Categories',
+      path: '/categories'
     },
     {
-      label: 'Contact me',
-      path: '/pages/contacts'
+      label: 'Tags',
+      path: '/tags'
+    },    
+    {
+      label: 'About me',
+      path: '/pages/about'
     }
   ],
   author: {
-    name: 'varcharho',
+    name: 'Varcharho',
     photo: '/photo.jpg',
-    bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+    bio: 'var charho = ["웹개발자 박찬호", "", ""]',
     contacts: {
-      email: '#',
-      telegram: '#',
-      twitter: '#',
-      github: '#',
-      rss: '#',
-      vkontakte: '#'
+      email: 'varcharho@gmail.com',
+      github: 'varcharho'
     }
   }
 };
