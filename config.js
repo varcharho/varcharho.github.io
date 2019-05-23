@@ -5,7 +5,7 @@ module.exports = {
   title: 'Varcharho 개발블로그',
   subtitle: 'var charho = ["웹개발자 박찬호", "", ""]',
   copyright: '© All rights reserved.',
-  disqusShortname: '',
+  disqusShortname: 'varcharho',
   postsPerPage: 4,
   googleAnalyticsId: 'UA-73379983-2',
   menu: [
