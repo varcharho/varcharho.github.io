@@ -7,7 +7,7 @@ module.exports = {
   copyright: '© All rights reserved.',
   disqusShortname: 'varcharho',
   postsPerPage: 4,
-  googleAnalyticsId: 'UA-73379983-2',
+  googleAnalyticsId: 'UA-140774944-1',
   menu: [
     {
       label: 'Articles',
@@ -31,7 +31,6 @@ module.exports = {
     photo: '/photo.jpg',
     bio: 'var charho = ["웹개발자 박찬호", "", ""]',
     contacts: {
-      email: 'varcharho@gmail.com',
       github: 'varcharho'
     }
   }
